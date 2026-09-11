@@ -4,6 +4,11 @@
   <a href="https://www.linkedin.com/in/hosein-moghaddasi-6b384655/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
   <a href="https://www.youtube.com/@Unearthing_Earth"><img src="https://img.shields.io/badge/YouTube-Unearthing_Earth-red?style=flat&logo=youtube" /></a>
   <a href="https://www.udemy.com/course/interpretation-principles-of-geological-maps/"><img src="https://img.shields.io/badge/Udemy-Course-darkpurple?style=flat&logo=udemy" /></a>
+  <p align="left">
+  <a href="./Resume Hosein Moghaddasi (English).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download-Full_Resume_(PDF)-2ea44f?style=for-the-badge" />
+  </a>
+</p>
   <a href="mailto:Moghaddasihosein@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact_Me-orange?style=flat&logo=mail.ru" /></a>
 </p>
 
