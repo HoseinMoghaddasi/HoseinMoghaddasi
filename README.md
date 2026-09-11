@@ -37,7 +37,7 @@ Senior Geophysicist & Exploration Consultant with over **15 years of technical e
 ---
 
 ## 🛠 Tech Stack & Tools
-`Python` • `SimPEG` • `TreeMesh 3D Inversion` • `Geosoft Oasis Montaj` • `RES2DINV` • `RES2DMOD` • `ArcGIS Pro` • `Surfer` • `RockWorks`
+ `SimPEG` • `TreeMesh 3D Inversion` • `Geosoft Oasis Montaj` • `RES2DINV` • `RES2DMOD` • `ArcGIS Pro` • `Surfer` • `RockWorks`
 
 ---
 📫 **Contact:** [Moghaddasihosein@yahoo.com](mailto:Moghaddasihosein@yahoo.com) | Tehran, Iran
