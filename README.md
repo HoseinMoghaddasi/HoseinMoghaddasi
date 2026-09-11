@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Executive Profile
-**Ph.D. Candidate in Geophysics** (Institute of Geophysics, University of Tehran) and **CEO of Zharfab Kavosh Consulting Engineering Co.**  
+**Ph.D. Candidate in Geophysics** (Institute of Geophysics, University of Tehran) and **CEO of Jarfab Kavosh Consulting Engineering Co.**  
 Senior Geophysicist & Exploration Consultant with over **15 years of technical experience** leading **300+ field and computational exploration projects** across Iran. Specialist in de-risking deep mineral targeting and groundwater aquifers through advanced numerical modeling, geology-geophysics integration, and 3D potential-field inversion.
 
 ---
