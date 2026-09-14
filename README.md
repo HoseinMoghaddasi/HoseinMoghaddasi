@@ -32,6 +32,6 @@ Instead of relying solely on standard commercial filters, the software incorpora
 ### 📫 Let's Connect
 - **LinkedIn:** [Hosein Moghaddasi](https://www.linkedin.com/in/hosein-moghaddasi-6b384655/)
 - **Email:** Moghaddasihosein@yahoo.com
-
+[Download Resume (PDF)](./HOSEIN%20MOGHADDASI%20RESUME.pdf)
 ---
 *“Geophysics without geological understanding is just a painting. I turn data into drill-ready geological realities.”*
