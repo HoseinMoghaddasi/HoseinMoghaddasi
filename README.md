@@ -26,7 +26,8 @@ Instead of relying solely on standard commercial filters, the software incorpora
 `3D Inversion` | `Potential-Field Filtering` | `Electrical Resistivity Tomography (ERT)` | `IP/Rs` 
 
 ### 📺 Case Studies & Content
-- 🎥 Watch how my custom Wavelet algorithm found active mines in 50-year-old data: [[LinkedIn Video Case Study](https://www.linkedin.com/in/hosein-moghaddasi-6b384655/) ](https://www.linkedin.com/feed/update/urn:li:activity:7503901088237056001/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287503920793756557312%2Curn%3Ali%3AugcPost%3A7503900924424400897%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287504129434787078144%2Curn%3Ali%3AugcPost%3A7503900924424400897%29)
+- 🎥 Watch how my custom Wavelet algorithm found active mines in 50-year-old data: (https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=L1-aK1-iQcA&t=3s)
+
 ### 📫 Let's Connect
 - **LinkedIn:** [Hosein Moghaddasi](https://www.linkedin.com/in/hosein-moghaddasi-6b384655/)
 - **Email:** Moghaddasihosein@yahoo.com
